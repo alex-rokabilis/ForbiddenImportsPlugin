@@ -1,0 +1,25 @@
+{
+  "name": "forbiddenimportsplugin",
+  "version": "1.0.0",
+  "description": "This plugin can find dependencies between two modules that are declared forbidden.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "webpack": ">=4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-rokabilis/ForbiddenImportsPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-rokabilis/ForbiddenImportsPlugin/issues"
+  },
+  "homepage": "https://github.com/alex-rokabilis/ForbiddenImportsPlugin#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
