@@ -1,12 +1,18 @@
 ## Forbidden Imports Plugin
 
-Detect dependencies that are declared as forbidden.
+This is a webpack plugin that can find and report dependencies that are declared as forbidden.
 
 Useful when working with teams and you want to restrict or deprecate dependencies.
 
 ### Webpack Versions
 
 Supports webpack `4.0.1` and greater as a peer dependency. 
+
+### Instalation
+
+```sh
+npm i -D forbidden-imports-plugin
+```
 
 ### Basic Usage
 
